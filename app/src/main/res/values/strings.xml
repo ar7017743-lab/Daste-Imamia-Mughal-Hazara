@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daste Imamia</string>
+    <string name="brand_urdu">دستہ امامیہ مغل ہزارہ</string>
+    <string name="brand_english">DASTE IMAMIA MUGHAL HAZARA</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_videos">Nohas</string>
+    <string name="nav_audio">Audio</string>
+    <string name="nav_lyrics">Lyrics</string>
+    <string name="nav_more">More</string>
+    <string name="action_search">Search</string>
+    <string name="action_subscribe_youtube">Subscribe on YouTube</string>
+    <string name="action_contact_whatsapp">Contact via WhatsApp</string>
+    <string name="action_copy_lyrics">Copy Lyrics</string>
+    <string name="action_print_lyrics">Print</string>
+    <string name="action_share">Share</string>
+    <string name="action_admin_cms">Admin CMS</string>
+    <string name="copyright_notice">© 2026 Daste Imamia Mughal Hazara • Hussaini Academy</string>
+</resources>

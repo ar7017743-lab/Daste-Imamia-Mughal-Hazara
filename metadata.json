@@ -1,0 +1,6 @@
+{
+  "name": "Daste Imamia",
+  "description": "دستہ امامیہ مغل ہزارہ — Islamic Noha Videos, Audio MP3, Nastaliq Lyrics, Majalis, Photo Gallery, Islamic Articles and Content Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
